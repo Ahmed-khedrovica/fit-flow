@@ -1,0 +1,364 @@
+{
+  "@@locale": "en",
+  "counterPrompt": "You have pushed the button this many times:",
+  "@counterPrompt": {
+    "description": "Label above the tap counter on the sample home screen"
+  },
+  "incrementTooltip": "Increment",
+  "@incrementTooltip": {
+    "description": "Accessibility label for the floating action button"
+  },
+  "splashBrandTitle": "FitFlow",
+  "@splashBrandTitle": {
+    "description": "Brand wordmark on the splash screen"
+  },
+  "splashTagline": "ELEVATE YOUR MOVEMENT",
+  "@splashTagline": {
+    "description": "Splash screen tagline below the brand title"
+  },
+  "onboardingSelectGoalTitle": "Select Your Goal",
+  "@onboardingSelectGoalTitle": {
+    "description": "Main heading on the onboarding goal step"
+  },
+  "onboardingSelectGoalSubtitle": "Customize your journey for precision performance.",
+  "@onboardingSelectGoalSubtitle": {
+    "description": "Subtitle below the onboarding goal heading"
+  },
+  "onboardingGoalBuildMuscleTitle": "Build Muscle",
+  "@onboardingGoalBuildMuscleTitle": {
+    "description": "Onboarding goal option title"
+  },
+  "onboardingGoalBuildMuscleDescription": "Focus on hypertrophy and strength.",
+  "@onboardingGoalBuildMuscleDescription": {
+    "description": "Onboarding goal option body"
+  },
+  "onboardingGoalGetStrongTitle": "Get Strong",
+  "@onboardingGoalGetStrongTitle": {
+    "description": "Onboarding goal option title"
+  },
+  "onboardingGoalGetStrongDescription": "Prioritize heavy lifting and power.",
+  "@onboardingGoalGetStrongDescription": {
+    "description": "Onboarding goal option body"
+  },
+  "onboardingGoalGeneralFitnessTitle": "General Fitness",
+  "@onboardingGoalGeneralFitnessTitle": {
+    "description": "Onboarding goal option title"
+  },
+  "onboardingGoalGeneralFitnessDescription": "Balanced health and mobility.",
+  "@onboardingGoalGeneralFitnessDescription": {
+    "description": "Onboarding goal option body"
+  },
+  "onboardingWeeklyAvailabilityTitle": "Weekly Availability",
+  "@onboardingWeeklyAvailabilityTitle": {
+    "description": "Section title for training days selector"
+  },
+  "onboardingDays2": "2 Days",
+  "@onboardingDays2": {
+    "description": "Weekly availability segment label"
+  },
+  "onboardingDays3": "3 Days",
+  "@onboardingDays3": {
+    "description": "Weekly availability segment label"
+  },
+  "onboardingDays4": "4 Days",
+  "@onboardingDays4": {
+    "description": "Weekly availability segment label"
+  },
+  "onboardingDays5Plus": "5+ Days",
+  "@onboardingDays5Plus": {
+    "description": "Weekly availability segment label"
+  },
+  "onboardingRecommendedLabel": "RECOMMENDED",
+  "@onboardingRecommendedLabel": {
+    "description": "Badge on the recommended plan preview"
+  },
+  "onboardingRecommendedCaption": "Optimal recovery cycle",
+  "@onboardingRecommendedCaption": {
+    "description": "Caption on the recommended plan preview"
+  },
+  "onboardingContinue": "Continue",
+  "@onboardingContinue": {
+    "description": "Primary button on onboarding"
+  },
+  "onboardingChangeLaterDisclaimer": "YOU CAN CHANGE THIS LATER IN PROFILE",
+  "@onboardingChangeLaterDisclaimer": {
+    "description": "Hint below onboarding continue button"
+  },
+  "onboardingHelpSemantics": "Help",
+  "@onboardingHelpSemantics": {
+    "description": "Semantics label for onboarding header help control"
+  },
+  "homeGreeting": "Good Morning",
+  "@homeGreeting": {
+    "description": "Time-of-day greeting in the home header"
+  },
+  "homeGreetingSubtitle": "Let's get to work.",
+  "@homeGreetingSubtitle": {
+    "description": "Motivational line under the home greeting"
+  },
+  "homeSettingsSemantics": "Settings",
+  "@homeSettingsSemantics": {
+    "description": "Accessibility label for the home header settings button"
+  },
+  "homeWeeklyBlueprintTitle": "Weekly Blueprint",
+  "@homeWeeklyBlueprintTitle": {
+    "description": "Section heading for the weekly training calendar"
+  },
+  "homeWeekLabel": "Week 1",
+  "@homeWeekLabel": {
+    "description": "Current training week indicator next to the blueprint heading"
+  },
+  "homeDayMon": "M",
+  "@homeDayMon": {
+    "description": "Single-letter weekday initial — Monday"
+  },
+  "homeDayTue": "T",
+  "@homeDayTue": {
+    "description": "Single-letter weekday initial — Tuesday"
+  },
+  "homeDayWed": "W",
+  "@homeDayWed": {
+    "description": "Single-letter weekday initial — Wednesday"
+  },
+  "homeDayThu": "T",
+  "@homeDayThu": {
+    "description": "Single-letter weekday initial — Thursday"
+  },
+  "homeDayFri": "F",
+  "@homeDayFri": {
+    "description": "Single-letter weekday initial — Friday"
+  },
+  "homeDaySat": "S",
+  "@homeDaySat": {
+    "description": "Single-letter weekday initial — Saturday"
+  },
+  "homeDaySun": "S",
+  "@homeDaySun": {
+    "description": "Single-letter weekday initial — Sunday"
+  },
+  "homeActivePlanEyebrow": "ACTIVE PLAN",
+  "@homeActivePlanEyebrow": {
+    "description": "Uppercase eyebrow above the hero plan title"
+  },
+  "homeActivePlanDuration": "45 Minutes",
+  "@homeActivePlanDuration": {
+    "description": "Estimated duration of today's session"
+  },
+  "homeActivePlanExerciseCount": "{count} Exercises",
+  "@homeActivePlanExerciseCount": {
+    "description": "Exercise count for today's session",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "homeStartWorkout": "Start Workout",
+  "@homeStartWorkout": {
+    "description": "Primary call to action on the hero card"
+  },
+  "homeTodaysExercisesTitle": "Today's Exercises",
+  "@homeTodaysExercisesTitle": {
+    "description": "Section heading for the list of today's exercises"
+  },
+  "homeRepsLabel": "REPS",
+  "@homeRepsLabel": {
+    "description": "Uppercase caption under the set/rep figure"
+  },
+  "homeRecoveryLabel": "RECOVERY",
+  "@homeRecoveryLabel": {
+    "description": "Label for the recovery stat tile"
+  },
+  "homeRecoveryValue": "94%",
+  "@homeRecoveryValue": {
+    "description": "Recovery readiness percentage"
+  },
+  "homeRecoveryBody": "Optimal status for training today.",
+  "@homeRecoveryBody": {
+    "description": "Supporting copy for the recovery stat"
+  },
+  "homeWeeklyBurnLabel": "WEEKLY BURN",
+  "@homeWeeklyBurnLabel": {
+    "description": "Label for the weekly calorie-burn stat tile"
+  },
+  "homeWeeklyBurnValue": "2,450",
+  "@homeWeeklyBurnValue": {
+    "description": "Active kilocalories burned this week"
+  },
+  "homeWeeklyBurnBody": "Active kcal burned this week.",
+  "@homeWeeklyBurnBody": {
+    "description": "Supporting copy for the weekly-burn stat"
+  },
+  "homeNavHome": "Home",
+  "@homeNavHome": {
+    "description": "Bottom navigation label — home tab"
+  },
+  "homeNavLearn": "Learn",
+  "@homeNavLearn": {
+    "description": "Bottom navigation label — learn tab"
+  },
+  "homeNavProfile": "Profile",
+  "@homeNavProfile": {
+    "description": "Bottom navigation label — profile tab"
+  },
+  "workoutSessionTitle": "Workout Session",
+  "@workoutSessionTitle": {
+    "description": "Title in the workout session screen header"
+  },
+  "workoutFinish": "Finish",
+  "@workoutFinish": {
+    "description": "Trailing action in the workout session header to end the session"
+  },
+  "workoutFormCuesLabel": "FORM CUES",
+  "@workoutFormCuesLabel": {
+    "description": "Label above the list of exercise form cues"
+  },
+  "workoutTableSet": "SET",
+  "@workoutTableSet": {
+    "description": "Sets-table column header — set index"
+  },
+  "workoutTableWeight": "WEIGHT",
+  "@workoutTableWeight": {
+    "description": "Sets-table column header — weight"
+  },
+  "workoutTableReps": "REPS",
+  "@workoutTableReps": {
+    "description": "Sets-table column header — repetitions"
+  },
+  "workoutTableDone": "DONE",
+  "@workoutTableDone": {
+    "description": "Sets-table column header — completed toggle"
+  },
+  "workoutAddSet": "ADD SET",
+  "@workoutAddSet": {
+    "description": "Button under the sets table to append another set"
+  },
+  "workoutStartRestTimer": "Start Rest Timer ({time})",
+  "@workoutStartRestTimer": {
+    "description": "Sticky footer call to action that starts the rest countdown",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "workoutWeightUnitKg": "kg",
+  "@workoutWeightUnitKg": {
+    "description": "Kilogram unit suffix shown beside a weight value"
+  },
+  "weightDialogTitle": "Enter Starting Weight",
+  "@weightDialogTitle": {
+    "description": "Heading of the starting-weight modal"
+  },
+  "weightDialogSubtitle": "Don't worry, you can update this later whenever you want.",
+  "@weightDialogSubtitle": {
+    "description": "Reassurance copy under the starting-weight modal heading"
+  },
+  "weightDialogSaveStart": "Save & Start",
+  "@weightDialogSaveStart": {
+    "description": "Primary action that stores the entered weight and begins the exercise"
+  },
+  "weightDialogUseDefault": "Not sure? Use default",
+  "@weightDialogUseDefault": {
+    "description": "Secondary action that accepts the suggested default weight"
+  },
+  "namePromptTitle": "What should we call you?",
+  "@namePromptTitle": {
+    "description": "Heading of the first-visit name bottom sheet"
+  },
+  "namePromptSubtitle": "Personalize your FitFlow experience. You can change this later.",
+  "@namePromptSubtitle": {
+    "description": "Supporting copy under the name bottom sheet heading"
+  },
+  "namePromptHint": "Your name",
+  "@namePromptHint": {
+    "description": "Placeholder text inside the name input field"
+  },
+  "namePromptDefaultName": "Athlete",
+  "@namePromptDefaultName": {
+    "description": "Base word for the auto-generated default name when the field is left blank"
+  },
+  "profileTitle": "Health Profile",
+  "@profileTitle": {
+    "description": "Profile screen top app bar title"
+  },
+  "profileMemberSince": "Member since {date}",
+  "@profileMemberSince": {
+    "description": "Subtitle under the profile name showing the first-seen month/year",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "profileActiveGoalLabel": "ACTIVE GOAL",
+  "@profileActiveGoalLabel": {
+    "description": "Uppercase label on the profile Active Goal card"
+  },
+  "profileActiveGoalPlaceholder": "Build Muscle",
+  "@profileActiveGoalPlaceholder": {
+    "description": "Placeholder value on the Active Goal card (no localized goal name is stored offline)"
+  },
+  "profileFrequencyLabel": "FREQUENCY",
+  "@profileFrequencyLabel": {
+    "description": "Uppercase label on the profile Frequency card"
+  },
+  "profileFrequencyValue": "{count} Days/Week",
+  "@profileFrequencyValue": {
+    "description": "Training frequency value derived from the plan availability days",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "profilePreferencesHeading": "Preferences & Account",
+  "@profilePreferencesHeading": {
+    "description": "Section heading above the preferences/account list"
+  },
+  "profileLanguageRow": "Language",
+  "@profileLanguageRow": {
+    "description": "Preferences row — language"
+  },
+  "profileResetPlanRow": "Reset Workout Plan",
+  "@profileResetPlanRow": {
+    "description": "Preferences row — reset workout plan"
+  },
+  "profileLogoutRow": "Log Out",
+  "@profileLogoutRow": {
+    "description": "Preferences row — log out"
+  },
+  "profileDeleteAccountRow": "Delete Account",
+  "@profileDeleteAccountRow": {
+    "description": "Preferences row — delete account (destructive)"
+  },
+  "profilePrivacyRow": "Privacy Policy",
+  "@profilePrivacyRow": {
+    "description": "Legal row — privacy policy"
+  },
+  "profileTermsRow": "Terms of Service",
+  "@profileTermsRow": {
+    "description": "Legal row — terms of service"
+  },
+  "profileVersion": "FitFlow Version {version}",
+  "@profileVersion": {
+    "description": "App version footer on the profile screen",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "profileEditAvatarSemantics": "Edit photo",
+  "@profileEditAvatarSemantics": {
+    "description": "Accessibility label for the avatar edit badge"
+  },
+  "languageEnglish": "English (US)",
+  "@languageEnglish": {
+    "description": "Language display name — English (endonym, same in all locales)"
+  },
+  "languageArabic": "العربية",
+  "@languageArabic": {
+    "description": "Language display name — Arabic (endonym, same in all locales)"
+  }
+}

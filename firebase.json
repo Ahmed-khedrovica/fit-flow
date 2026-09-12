@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "fitflow-f5158",
+                    "appId": "1:105860403995:android:f5e42ce9ed1616dca479be",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "fitflow-f5158",
+                    "configurations": {
+                        "android": "1:105860403995:android:f5e42ce9ed1616dca479be",
+                        "ios": "1:105860403995:ios:d09377fd263f0177a479be",
+                        "macos": "1:105860403995:ios:75e7554e3dbc0778a479be",
+                        "web": "1:105860403995:web:9f80c8d934cd47d2a479be",
+                        "windows": "1:105860403995:web:cafd68134c953765a479be"
+                    }
+                }
+            }
+        }
+    }
+}
